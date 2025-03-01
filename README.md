@@ -17,8 +17,8 @@ Open a terminal / vs code terminal and run:
 ```sh
 git clone https://github.com/nizam424/excel-to-json-api.git
 cd excel-to-json-api
-
-
+```
+---
 ##  **Step 2: Install Dependencies**
 Run the following command inside the project folder:
 ```sh
