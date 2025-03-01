@@ -34,7 +34,7 @@ Run the following command to start the API:
 cd src
 node server.js
 ```
-If successful, you should see a message like on your console:
+If successful, you should see a message like this on your terminal:
 ```
 Server running on port 3002
 ```
